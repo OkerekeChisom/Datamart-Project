@@ -3,7 +3,7 @@ Repo for the final project in the data Warehouse design Course.
 
 You can access the ipynb [here](./Chisom_Okereke_DW_Project.ipynb). 
 
-The mart will be constructed as follows:
+The mart will be created as follows:
  
 ![ERD](./data/DW_ProjectERD.png)
 
